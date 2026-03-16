@@ -25,3 +25,7 @@ Matplotlib
 Weather API
 
 The output of the program shows a simple graph of the weather data.
+
+OUTPUT:
+
+<img width="828" height="708" alt="Image" src="https://github.com/user-attachments/assets/f70474da-20ce-4f31-aed8-2eac72370567" />
